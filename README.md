@@ -1,8 +1,4 @@
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+<h1>Live coding interview</h1>
+<p>1. Create a custom React Hook to fetch users form an API (https://randomuser.me/api) and display their ppicture and name on the page.</p>
+<p>2. It must return the list of users, the current user, a function to fetch the nextt user and a function to move back to the previous user</p>
+<p>You have 45 minutes to do this task</p>
